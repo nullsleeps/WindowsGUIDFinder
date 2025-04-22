@@ -14,7 +14,7 @@ A `GUID` **(`Global Unique Identifier`)** is used by the **Windows Terminal** to
 
 # How to Use the Script
 
-*To generate the `GUID` for an app, Replace* `"Far"` *in the line below with the **exact name** of the app.*
+*To generate the `GUID` for your app, Replace* `"Far"` *in the line below with the **exact name** of the app.*
 ```python
 profileGUID = uuid.uuid5(terminalNamespaceGUID, "Far".encode("UTF-16LE").decode("ASCII"))
 ```
