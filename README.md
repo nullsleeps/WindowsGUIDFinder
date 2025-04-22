@@ -52,12 +52,6 @@ print(f"{{{profileGUID}}}")
 ***And much more!***
 
 
-### Extras
-*`WindowsGUIDFinder`*
-*`Version 1.0`*
-*`Python 3.13.3`*
-
-
 # Microsofts Original Code
 
 > [!IMPORTANT]
@@ -65,5 +59,8 @@ print(f"{{{profileGUID}}}")
 
 ![Microsoft's Original Code on Their Website](https://i.imgur.com/zniBpR0.png)
 
+*`WindowsGUIDFinder`*
+*`Version 1.0`*
+*`Python 3.13.3`*
 
 ## And most importantly, Have Fun :)
