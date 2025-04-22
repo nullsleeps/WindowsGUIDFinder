@@ -39,7 +39,7 @@ profileGUID = uuid.uuid5(terminalNamespaceGUID, "Far".encode("UTF-16LE").decode(
 ## But most importantly, Have Fun :)
 
 
-### WindowsGUIDFinder
-### Version 1.0
-### Python 3.13.3
-### Forked from `Microsoft`
+`WindowsGUIDFinder`
+`Version 1.0`
+`Python 3.13.3`
+`Forked from Microsoft`
