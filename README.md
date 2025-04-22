@@ -7,7 +7,7 @@
 
 
 This short but powerful [**`Python script`**](Finder.py) helps generate `GUID's` for applications to be used in **Windows Terminal Profiles**.
-A `GUID` **( `Global Unique Identifier` )** is used by the **Windows Terminal** to uniquely identify each **Shell** and/or **Profile**.
+A `GUID` **(`Global Unique Identifier`)** is used by the **Windows Terminal** to uniquely identify each **Shell** and/or **Profile**.
 **( i.e.** ***PowerShell***, ***Command Prompt*** **)**.
 *This also applies to* **Third Party Tools** *like:* **(** ***Ubuntu*** ***Far Manager, Cygwin, CMDer, etc*** **)**.
 
