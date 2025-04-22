@@ -36,8 +36,7 @@ profileGUID = uuid.uuid5(terminalNamespaceGUID, "Far".encode("UTF-16LE").decode(
 ***(Cygwin, Ubuntu, Far Manager, Cmder, Git Bash, Multipass, Neofetch, etc)***
 
 
-## But most importantly,
-# Have Fun :)
+## But most importantly, Have Fun :)
 
 
 ### WindowsGUIDFinder
