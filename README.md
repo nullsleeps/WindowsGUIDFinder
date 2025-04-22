@@ -5,7 +5,7 @@ A `GUID` **( Global Unique Identifier )** is used by the **Windows Terminal** to
 *This also applies to* **Third Party Tools** *like:* **(** ***Ubuntu*** ***Far Manager, Cygwin, CMDer, etc*** **)**.
 
 ## How it Works:
-*For this guide, I'll be getting the `GUID` for **Far Manager**
+*For this guide, I'll be getting the `GUID` for* **Far Manager**.
 ```python
 import uuid
 ```
