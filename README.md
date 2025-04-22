@@ -63,6 +63,8 @@ print(f"{{{profileGUID}}}")
 
 > [!IMPORTANT]
 > This code is originally from [Microsoft's Website](https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions) and was simply reuploaded with more instructions and detail on how to use it and how it works.
+
 ![Microsoft's Original Code on Their Website](https://i.imgur.com/zniBpR0.png)
+
 
 ## And most importantly, Have Fun :)
