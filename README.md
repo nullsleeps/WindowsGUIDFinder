@@ -21,7 +21,6 @@ profileGUID = uuid.uuid5(terminalNamespaceGUID, "Far".encode("UTF-16LE").decode(
 ```
 *This allows you to make a unique and constant `GUID` that you can paste into your* **`Windows Terminal's`** ***`settings.json`***
 
-
 # How it Works:
 
 > *For this guide, I'll be getting the `GUID` for* **`Far Manager`** *as an example*.
@@ -62,7 +61,8 @@ print(f"{{{profileGUID}}}")
 
 # Microsofts Original Code
 
-### I Took the code from [Microsoft's Website](https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions) and simply reuploaded it with more instructions and detail on how to use it and how it works.
+> [!IMPORTANT]
+> This code is originally from [Microsoft's Website](https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions) and was simply reuploaded with more instructions and detail on how to use it and how it works.
 ![Microsoft's Original Code on Their Website](https://imgur.com/a/Ba01FzE)
 
 ## And most importantly, Have Fun :)
