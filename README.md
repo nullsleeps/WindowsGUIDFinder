@@ -1,5 +1,5 @@
 # WindowsGUIDFinder
-[Usage](How it Works:) [Usage](Usage)
+[Usage](https://github.com/nullsleeps/WindowsGUIDFinder#usage) [How it Works](https://github.com/nullsleeps/WindowsGUIDFinder#how-it-works) [Extras](https://github.com/nullsleeps/WindowsGUIDFinder#extras)
 This short but powerful **Python** script helps generate `GUID's` for applications to be used in **Windows Terminal Profiles**.
 A `GUID` **( Global Unique Identifier )** is used by the **Windows Terminal** to uniquely identify each **Shell** and/or **Profile**.
 **( i.e.** ***PowerShell***, ***Command Prompt*** **)**.
@@ -38,13 +38,13 @@ print(f"{{{profileGUID}}}")
 
 **Examples of Third Party Profiles:**
 ***(Cygwin, Ubuntu, Far Manager, Cmder, Git Bash, Multipass, Neofetch, etc)***
+
+# Extras
 `WindowsGUIDFinder`
 `Version 1.0`
 `Python 3.13.3`
+
+# Microsoft's Code (Original)
 ## This can also be found on [Microsoft's Website](https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions)
+
 ## But most importantly, Have Fun :)
-
-
-`WindowsGUIDFinder`
-`Version 1.0`
-`Python 3.13.3`
