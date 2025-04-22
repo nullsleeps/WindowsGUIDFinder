@@ -3,7 +3,6 @@
 ## Jump To:
 - [How to Use the Script](https://github.com/nullsleeps/WindowsGUIDFinder#how-to-use-the-script)
 - [How it Works](https://github.com/nullsleeps/WindowsGUIDFinder#how-it-works)
-- [Extras](https://github.com/nullsleeps/WindowsGUIDFinder#extras)
 - [Microsoft's Original Code](https://github.com/nullsleeps/WindowsGUIDFinder#microsofts-original-code)
 
 
@@ -53,7 +52,7 @@ print(f"{{{profileGUID}}}")
 ***And much more!***
 
 
-# Extras
+### Extras
 *`WindowsGUIDFinder`*
 *`Version 1.0`*
 *`Python 3.13.3`*
